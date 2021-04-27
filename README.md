@@ -1,4 +1,4 @@
-#Name: Real-time Filtering
+# Project Name: Real-time Filtering
 
 Build instructions:
 Use CMakeLists.txt to generate make file.
